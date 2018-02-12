@@ -1,2 +1,2 @@
 # Media-query-CSS
-A simple of using media query
+A simple use of media query
